@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: flags-2-env-test Linear project
+    url: https://linear.app/denman/project/githubcomflags-2-env-05db5133a267
+    about: Roadmap, cross-repository planning, and internal delivery tracking.
+  - name: Security policy
+    url: https://github.com/flags-2-env-test/.github/security/policy
+    about: Report vulnerabilities privately; never file public security issues.
